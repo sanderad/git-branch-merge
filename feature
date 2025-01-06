@@ -2,4 +2,4 @@ first chunk
 second chunk
 third chunk
 conflict 1
-new feature1
+new feature2
