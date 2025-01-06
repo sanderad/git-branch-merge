@@ -1,4 +1,4 @@
 first chunk
 second chunk
 third chunk
-conflict 2
+conflict 1
